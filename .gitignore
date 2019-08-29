@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+samples/
+main.py
+model.h5
+model.json
+
